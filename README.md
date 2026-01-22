@@ -60,4 +60,4 @@ To replicate the analysis, the following Python libraries are required:
     Load the `best_fraud_model.pkl` to make predictions on new transaction data.
 
 ---
-*Note: The dataset used contains anonymized features (V1-V28) resulting from a PCA transformation to protect user confidentiality.*
+
